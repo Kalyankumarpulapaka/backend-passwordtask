@@ -133,7 +133,7 @@ const forgetPassword = async(req,res)=>{
                 else
                 {
                     console.log("password reset email sent" + info.response)
-                    res.status(200).send({
+                    res.status(201).send({
                         message:"password reset mail sent sucessfully"
                     })
                 }
