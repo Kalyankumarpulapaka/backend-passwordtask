@@ -49,7 +49,7 @@ To run the project locally:
 Live Demo : https://sparkly-wisp-415159.netlify.app/
 
 1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-BE
-2. Front  End code :
+2. Front  End code 
 https:  //github.com/Vijayarajvijay/Password-Reset-FE
 
 3. Navigate to the project directory and install 
